@@ -1,3 +1,5 @@
+![logo](https://github.com/Nandini99-git/Nandini99-git/blob/main/Blue%20Futuristic%20Coming%20Soon%20Video.mp4)
+
 <h1 align="center">Hi 👋, I'm Nandini Gupta</h1>
 <h3 align="center">A passionate devops learner from India</h3>
 
