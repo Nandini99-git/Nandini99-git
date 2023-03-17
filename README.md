@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini99-git&label=Profile%20views&color=0e75b6&style=flat" alt="nandini99-git" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **AWS**&**web application**
 
 - 📫 How to reach me **nandini.g.gupt9.9@gmail.com**
 
