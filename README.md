@@ -1,8 +1,6 @@
 ![logo](https://github.com/Nandini99-git/Nandini99-git/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner.png)
 
 
-
-
 <h1 align="center">Hi 👋, I'm Nandini Gupta</h1>
 <h3 align="center">A passionate devops learner from India</h3>
 
