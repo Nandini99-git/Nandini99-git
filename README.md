@@ -8,16 +8,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini99-git&label=Profile%20views&color=0e75b6&style=flat" alt="nandini99-git" /> </p>
 
-- 🌱 I’m currently learning **AWS**&**web application**
+- 🌱 I’m currently exploring new technology.
 
 - 📫 How to reach me **nandini.g.gupt9.9@gmail.com**
 
 - ⚡ Fun fact **I am funny😎**
 
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nandini gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandini gupta" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/motivation inspire" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="motivation inspire" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/nandini-gupta-07248a22a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nandini-gupta-07248a22a/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucq6jyhe2qfidxqaeeyqm05q" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucq6jyhe2qfidxqaeeyqm05q" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -28,6 +29,6 @@
 
 [![An image of @nandini99git's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nandini99git)](https://holopin.io/@nandini99git)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandini99-git&show_icons=true&locale=en" alt="nandini99-git" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandini99-git&show_icons=true&locale=en" alt="nandini99-git" bg="black" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandini99-git&" alt="nandini99-git" /></p>
