@@ -18,7 +18,7 @@
 
 - 🤝 I’m looking for help with **Community**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Nandini99-git](https://github.com/Nandini99-git)
+- 👨‍💻 All of my projects are available at [https://github.com/Nandini99-git](https://github.com/Nandini99-git?tab=repositories)
 
 - 💬 Ask me about **Tags**
 
