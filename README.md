@@ -30,7 +30,7 @@
 
 - 📫 How to reach me **nandinig38678@gmail.com**
 
-- ⚡ Fun fact **"Coding can "power up" your brain"**
+- ⚡ Fun fact **'Coding can "power up" your brain'**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
