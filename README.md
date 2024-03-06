@@ -1,4 +1,4 @@
-![logo](https://github.com/Nandini99-git/Nandini99-git/blob/main/Navy%20And%20White%20Geometric%20Technology%20%20LinkedIn%20Banner%20(1).png)
+![logo](https://github.com/Nandini99-git/Nandini99-git/blob/main/NLinkedIn%20Banner%20(2).png)
 
 
 <h1 align="center">Hello 👋, I'm Nandini Gupta 😊</h1>
