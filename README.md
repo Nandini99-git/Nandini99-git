@@ -2,16 +2,11 @@
 
 
 <h1 align="center">Hello 👋, I'm Nandini Gupta 😊</h1>
-<h3 align="center">A passionate learner from India</h3>
+<h3 align="center">A passionate learner from India </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nandini99-git&label=Profile%20views&color=0e75b6&style=flat" alt="nandini99-git" /> </p>
 
-
-
-<img align="right" alt="coding" width="400" height="400" src="https://camo.githubusercontent.com/691cdc5f9c4dc0e88650b97d480af9237d9422963bd1184f95e00087d3aa8bbd/68747470733a2f2f692e696d6775722e636f6d2f72486c456444712e676966">
-
-
-
+<img align="right" alt="coding" width="500" height="500" src="https://github.com/Nandini99-git/Nandini99-git/blob/main/girl%20gif.gif">
 
 
 <p align="left"> <a href="https://twitter.com/nandini71899223" target="blank"><img src="https://img.shields.io/twitter/follow/nandini71899223?logo=twitter&style=for-the-badge" alt="nandini71899223" /></a> </p>
