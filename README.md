@@ -15,13 +15,13 @@
 
 - 🌱 I’m currently learning **and exploring new tools and technologies.**
 
-- 👯 I’m looking to collaborate on **Open source**
+- 👯 I’m looking to collaborate on **Frontend**
 
 - 🤝 I’m looking for help with **Community**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandini99-git](https://github.com/Nandini99-git?tab=repositories)
 
-- 💬 Ask me about **Open-Source**
+- 💬 Ask me about **Frontend**
 
 - 📫 How to reach me **nandinig38678@gmail.com**
 
