@@ -17,7 +17,7 @@
 
 - 👯 I’m looking to collaborate on **Frontend**
 
-- 🤝 I’m looking for help with **Community**
+- 🤝 I’m looking for help with **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandini99-git](https://github.com/Nandini99-git?tab=repositories)
 
