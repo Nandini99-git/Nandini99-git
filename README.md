@@ -1,4 +1,4 @@
-![logo](https://github.com/Nandini99-git/Nandini99-git/blob/main/NLinkedIn%20Banner%20(2).png)
+![logo](https://github.com/Nandini99-git/Nandini99-git/blob/main/NLinkedIn%20Banner%20(6).png)
 
 
 <h1 align="center">Hello 👋, I'm Nandini Gupta 😊</h1>
@@ -11,17 +11,17 @@
 
 <p align="left"> <a href="https://twitter.com/nandini71899223" target="blank"><img src="https://img.shields.io/twitter/follow/nandini71899223?logo=twitter&style=for-the-badge" alt="nandini71899223" /></a> </p>
 
- -🔭 I’m currently working on **Frontend**
+ -🔭 I’m currently working on **Breaking into CyberSecurity**
 
 - 🌱 I’m currently learning **and exploring new tools and technologies.**
 
-- 👯 I’m looking to collaborate on **Frontend**
+- 👯 I’m looking to collaborate on **CyberSecurity**
 
 - 🤝 I’m looking for help with **Open Source**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Nandini99-git](https://github.com/Nandini99-git?tab=repositories)
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **CyberSecurity**
 
 - 📫 How to reach me **nandinig38678@gmail.com**
 
