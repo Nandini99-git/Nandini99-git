@@ -1,14 +1,16 @@
-![banner](https://github.com/Nandini99-git/Nandini99-git/blob/main/NLinkedIn%20Banner%20(6).png)
+![banner](https://github.com/Nandini99-git/Nandini99-git/blob/main/NLinkedIn%20Banner.png)
 
 <h1 align="center">Hey 👋 I'm Nandini Gupta</h1>
 <h3 align="center">🛡️ Cybersecurity • ⛓️ Blockchain • 🤖 AI Automation</h3>
 
-<img align="right" alt="coding" width="360" src="https://github.com/Nandini99-git/Nandini99-git/blob/main/girl%20gif.gif">
+<img align="right" alt="coding" width="340" src="https://github.com/Nandini99-git/Nandini99-git/blob/main/girl%20gif.gif">
+
 
 ```bash
 > Exploring AI security, blockchain infrastructure & automation systems 🚀
 > Building workflows, smart contracts & security-focused projects ⚡
 ```
+
 
 ### ⚙️ Currently Exploring
 - 🔐 Cybersecurity & Secure Infrastructure
@@ -19,7 +21,9 @@
 
 ---
 
+
 ### 🛠️ Tools & Technologies
+
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,javascript,docker,linux,git,vscode" />
@@ -32,9 +36,12 @@
 <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white"/>
 </p>
 
+
 ---
 
+
 ### 🏆 Achievements
+
 
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -42,33 +49,42 @@
   </a>
 </p>
 
+
 ---
+
 
 ### 📫 Connect With Me
 - 💼 LinkedIn: https://linkedin.com/in/nandini-gupta-07248a22a
 - ✍️ Dev.to: https://dev.to/nandini99git
 - 📧 Email: nandinig38678@gmail.com
 
+
 ---
+
 
 ### 📊 GitHub Stats
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=nandini99-git&show_icons=true&locale=en" />
-</p>
 
 <p>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nandini99-git&" />
 </p>
 
+
 ---
+
 
 ### 📈 Contribution Graph
 
+
 [![Nandini's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Nandini99-git&bg_color=0d1117&color=00ff99&line=00ff99&point=39ff14&area=true&hide_border=true)](https://github.com/Nandini99-git)
+
 
 ---
 
+
 ### 🏅 Badges
 
+
 [![Holopin badges](https://holopin.me/nandini99git)](https://holopin.io/@nandini99git)
+
+
