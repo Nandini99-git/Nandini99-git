@@ -1,7 +1,7 @@
 ![banner](https://github.com/Nandini99-git/Nandini99-git/blob/main/NLinkedIn%20Banner.png)
 
 <h1 align="center">Hey 👋 I'm Nandini Gupta</h1>
-<h3 align="center">🛡️ Cybersecurity • ⛓️ Blockchain • 🤖 AI Automation</h3>
+<h3 align="center"> ⛓️ Blockchain  • Web3 •🛡️ Security • 🤖 AI Automation</h3>
 
 <img align="right" alt="coding" width="330" src="https://github.com/Nandini99-git/Nandini99-git/blob/main/girl%20gif.gif">
 
